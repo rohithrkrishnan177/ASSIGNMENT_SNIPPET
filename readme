@@ -1,0 +1,27 @@
+API END POINT 
+
+
+1)FOR OVERVIEW
+http://127.0.0.1:8000/api/overview/
+
+2)Login
+
+http://localhost:8000/api/token/
+ rohith_123
+ qwerty@321
+
+ {
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY0NTEwNzkyOCwianRpIjoiYjYwMGQ0NDMxNmY3NDY2ODliMDA3OTA5ZmNmNDgwMGQiLCJ1c2VyX2lkIjoyfQ.DuqW4AYPZrFrIONOExON5VhXJIr-gGg_trcpQeQTIs8",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjQ1MDIxODI4LCJqdGkiOiIwNmJhYWI5YTYwYWI0MmNiYTI2YjQ1NTU1NDU2ZDE3ZiIsInVzZXJfaWQiOjJ9.egp7G8vr5F7nxwKppSw3KJBbqdtMdgYT4aD4yON8CYQ"
+}
+
+
+3)http://127.0.0.1:8000/api/overview/Tag
+4)http://localhost:8000/api/overview/Tag/1
+5)http://localhost:8000/api/overview/snippet
+6)http://localhost:8000/api/overview/snippet/3
+
+
+
+
+
